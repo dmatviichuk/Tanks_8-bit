@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f92bdba-bd2f-48e4-82f4-e3813c95437a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YR4FyBmGiuP1Eg2AWGtS1sEzF9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pack1.Main" />
+      <module name="Tanks 8-bit" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=libs/lwjgl-2.9.3/native/linux/" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f92bdba-bd2f-48e4-82f4-e3813c95437a" name="Default Changelist" comment="" />
+      <created>1582891973132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582891973132</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Updated">
+      <created>1582909606283</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582909606283</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated">
+      <created>1582910259588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582910259588</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated">
+      <created>1582910635673</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582910635674</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated">
+      <created>1582910679973</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582910679973</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated">
+      <created>1582910789724</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582910789724</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updated">
+      <created>1582911655361</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582911655361</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated">
+      <created>1582911774677</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1582911774677</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated">
+      <created>1582927804072</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1582927804072</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated">
+      <created>1582928040245</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582928040245</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updated">
+      <created>1582928186644</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582928186644</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updated">
+      <created>1582928395100</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1582928395100</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Updated">
+      <created>1583015153987</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1583015153987</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="279" y="57" key="#Notifications" timestamp="1582910273734">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="279" y="57" key="#Notifications/0.26.1366.742@0.26.1366.742" timestamp="1582910273734" />
+    <state x="279" y="57" key="#Project_Structure" timestamp="1582891990026">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="279" y="57" key="#Project_Structure/0.26.1366.742@0.26.1366.742" timestamp="1582891990026" />
+    <state x="142" y="53" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582927850832">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="142" y="53" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.26.1366.742@0.26.1366.742" timestamp="1582927850832" />
+    <state x="331" y="26" width="703" height="742" key="CommitChangelistDialog2" timestamp="1583015446798">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="331" y="26" width="703" height="742" key="CommitChangelistDialog2/0.26.1366.742@0.26.1366.742" timestamp="1583015446798" />
+    <state x="441" y="113" key="DetectedRootsChooserDialog" timestamp="1582892033575">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="441" y="113" key="DetectedRootsChooserDialog/0.26.1366.742@0.26.1366.742" timestamp="1582892033575" />
+    <state x="123" y="207" key="DiffContextDialog" timestamp="1582911651315">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="123" y="207" key="DiffContextDialog/0.26.1366.742@0.26.1366.742" timestamp="1582911651315" />
+    <state x="374" y="139" width="432" height="487" key="FileChooserDialogImpl" timestamp="1582927355857">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="374" y="139" width="432" height="487" key="FileChooserDialogImpl/0.26.1366.742@0.26.1366.742" timestamp="1582927355857" />
+    <state x="448" y="229" width="359" height="295" key="Github.ShareDialog" timestamp="1582911751696">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="448" y="229" width="359" height="295" key="Github.ShareDialog/0.26.1366.742@0.26.1366.742" timestamp="1582911751696" />
+    <state x="500" y="103" key="Github.UntrackedFilesDialog" timestamp="1582893149736">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="500" y="103" key="Github.UntrackedFilesDialog/0.26.1366.742@0.26.1366.742" timestamp="1582893149736" />
+    <state width="1343" height="149" key="GridCell.Tab.0.bottom" timestamp="1583015238591">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state width="1343" height="149" key="GridCell.Tab.0.bottom/0.26.1366.742@0.26.1366.742" timestamp="1583015238591" />
+    <state width="1343" height="149" key="GridCell.Tab.0.center" timestamp="1583015238590">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state width="1343" height="149" key="GridCell.Tab.0.center/0.26.1366.742@0.26.1366.742" timestamp="1583015238590" />
+    <state width="1343" height="149" key="GridCell.Tab.0.left" timestamp="1583015238589">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state width="1343" height="149" key="GridCell.Tab.0.left/0.26.1366.742@0.26.1366.742" timestamp="1583015238589" />
+    <state width="1343" height="149" key="GridCell.Tab.0.right" timestamp="1583015238591">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state width="1343" height="149" key="GridCell.Tab.0.right/0.26.1366.742@0.26.1366.742" timestamp="1583015238591" />
+    <state x="167" y="26" width="992" height="733" key="SettingsEditor" timestamp="1582928031971">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="167" y="26" width="992" height="733" key="SettingsEditor/0.26.1366.742@0.26.1366.742" timestamp="1582928031971" />
+    <state x="279" y="131" key="Vcs.Push.Dialog.v2" timestamp="1583015450855">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="279" y="131" key="Vcs.Push.Dialog.v2/0.26.1366.742@0.26.1366.742" timestamp="1583015450855" />
+    <state x="489" y="315" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582911332230">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="489" y="315" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.26.1366.742@0.26.1366.742" timestamp="1582911332230" />
+    <state x="472" y="263" key="git4idea.rebase.GitRebaseDialog" timestamp="1582909770462">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="472" y="263" key="git4idea.rebase.GitRebaseDialog/0.26.1366.742@0.26.1366.742" timestamp="1582909770462" />
+    <state x="444" y="230" key="git4idea.ui.GitUnstashDialog" timestamp="1582910731424">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="444" y="230" key="git4idea.ui.GitUnstashDialog/0.26.1366.742@0.26.1366.742" timestamp="1582910731424" />
+    <state x="347" y="176" key="run.anything.popup" timestamp="1582927665241">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="347" y="176" key="run.anything.popup/0.26.1366.742@0.26.1366.742" timestamp="1582927665241" />
+  </component>
+</project>
