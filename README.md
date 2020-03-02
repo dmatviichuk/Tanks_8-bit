@@ -1,7 +1,7 @@
 # Tanks_8-bit
 Simple 8-bit tanks game using lwjgl-2.9.3 and Java 1.8 or 8.
 
-# Installation:
+### Installation:
 * Linux:
     * `sudo pacman -S jdk8-openjdk`
     * Run -> Edit configuration -> Add VM option `-Djava.library.path=libs/lwjgl-2.9.3/native/linux/` 
